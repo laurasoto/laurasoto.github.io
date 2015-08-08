@@ -1,0 +1,92 @@
+<manifest alg="2" build="2" opt="false">
+  <folder name="css">
+    <file name="site_global.css" crc="3835980900"/>
+    <file name="master_b-p_gina-maestra.css" crc="364180302" ref="about"/>
+    <file name="master_a-p_gina-maestra.css" crc="4135062023" ref="index:works:contact"/>
+    <file name="about.css" crc="476427051" ref="about"/>
+    <file name="index.css" crc="34926477" ref="index"/>
+    <file name="works.css" crc="3896247486" ref="works"/>
+    <file name="contact.css" crc="4143325704" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <folder name="1.1">
+      <file name="jquery-1.7.min.js" crc="526788486" ref="index:works:about:contact"/>
+      <file name="museutils.js" crc="410024474" ref="index:works:about:contact"/>
+      <file name="pie.js" crc="4067523484" ref="index:works:about:contact"/>
+      <file name="pie.htc" crc="119515598" ref="index:works:about:contact"/>
+      <file name="jquery.watch.js" crc="3882405427" ref="index:works:about:contact"/>
+      <file name="webpro.js" crc="4241983492" ref="works"/>
+      <file name="musewpslideshow.js" crc="4170181272" ref="works"/>
+      <file name="jquery.museoverlay.js" crc="535999373" ref="works"/>
+      <file name="touchswipe.js" crc="4156838003" ref="works"/>
+    </folder>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="228465063" ref="index"/>
+    <file name="logo-03.png" crc="3903611423" ref="index:works:about:contact"/>
+    <file name="botones-04.png" crc="4010974301" ref="index:works:about:contact"/>
+    <file name="botones-05.png" crc="4155688254" ref="index:works:about:contact"/>
+    <file name="botones-06.png" crc="4105533413" ref="index:works:about:contact"/>
+    <file name="canasta-07.png" crc="335169386" ref="index:works:about:contact"/>
+    <file name="p2015-03.png" crc="4076277520" ref="index:works:about:contact"/>
+    <file name="yopo.jpg" crc="241747670" ref="index"/>
+    <file name="u1672-7.png" crc="4050273657" ref="index"/>
+    <file name="u1673-7.png" crc="71860947" ref="index"/>
+    <file name="web_2.png" crc="3864703024" ref="works"/>
+    <file name="blank.gif" crc="4208392903" ref="works"/>
+    <file name="web_1.png" crc="208335921" ref="works"/>
+    <file name="branding_1.png" crc="3896554984" ref="works"/>
+    <file name="brandin_3.png" crc="4222732425" ref="works"/>
+    <file name="print_1.png" crc="163697579" ref="works"/>
+    <file name="print_2.png" crc="3805112009" ref="works"/>
+    <file name="print_3.png" crc="3849193521" ref="works"/>
+    <file name="print_4.png" crc="490470537" ref="works"/>
+    <file name="social_1.png" crc="4012068107" ref="works"/>
+    <file name="web_4.png" crc="514682074" ref="works"/>
+    <file name="web_3.png" crc="304906129" ref="works"/>
+    <file name="branding_2.png" crc="3947218178" ref="works"/>
+    <file name="social_2.png" crc="88468172" ref="works"/>
+    <file name="social_3.png" crc="45151500" ref="works"/>
+    <file name="print_5.png" crc="77459817" ref="works"/>
+    <file name="web_5.png" crc="446007807" ref="works"/>
+    <file name="app_1.png" crc="175381710" ref="works"/>
+    <file name="print_6.png" crc="283861865" ref="works"/>
+    <file name="projects_1.png" crc="3957873511" ref="works"/>
+    <file name="projects_2.png" crc="215495827" ref="works"/>
+    <file name="web_283x45.png" crc="4034888414" ref="works"/>
+    <file name="web_183x45.png" crc="4271507072" ref="works"/>
+    <file name="branding_183x45.png" crc="4090585498" ref="works"/>
+    <file name="brandin_383x45.png" crc="4233479728" ref="works"/>
+    <file name="print_183x45.png" crc="413991014" ref="works"/>
+    <file name="print_283x45.png" crc="224980806" ref="works"/>
+    <file name="print_383x45.png" crc="415683995" ref="works"/>
+    <file name="print_483x45.png" crc="48857812" ref="works"/>
+    <file name="social_183x45.png" crc="4224537390" ref="works"/>
+    <file name="web_483x45.png" crc="3913158605" ref="works"/>
+    <file name="web_383x45.png" crc="3805265975" ref="works"/>
+    <file name="branding_283x45.png" crc="3802401942" ref="works"/>
+    <file name="social_283x45.png" crc="474793891" ref="works"/>
+    <file name="social_383x45.png" crc="4249403194" ref="works"/>
+    <file name="print_583x45.png" crc="468769812" ref="works"/>
+    <file name="web_583x45.png" crc="4234981034" ref="works"/>
+    <file name="app_183x45.png" crc="222566126" ref="works"/>
+    <file name="print_683x45.png" crc="235202098" ref="works"/>
+    <file name="projects_183x45.png" crc="4186195603" ref="works"/>
+    <file name="projects_283x45.png" crc="3809385523" ref="works"/>
+    <file name="loading.gif" crc="3815509949" ref="works"/>
+    <file name="10,11-10.png" crc="311506919" ref="about"/>
+    <file name="about.png" crc="319989627" ref="about"/>
+    <file name="contact-03.png" crc="233568740" ref="contact"/>
+    <file name="partes-13.png" crc="168758932" ref="contact"/>
+    <file name="tel.png" crc="451128806" ref="contact"/>
+    <file name="partes-15.png" crc="4257851101" ref="contact"/>
+    <file name="partes-16.png" crc="3780847048" ref="contact"/>
+    <file name="in.png" crc="37351056" ref="contact"/>
+    <file name="partes-17.png" crc="3970570262" ref="contact"/>
+    <file name="partes-19.png" crc="3923038769" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="492642042" mt="1438251960560"/>
+  <file name="works.html" crc="143413823" mt="1438250028906"/>
+  <file name="about.html" crc="34779153" mt="1438250669170"/>
+  <file name="contact.html" crc="403670125" mt="1438252016520"/>
+</manifest>

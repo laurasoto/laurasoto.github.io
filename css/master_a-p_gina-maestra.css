@@ -1,0 +1,34 @@
+#u71
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #00A6A1;
+	position: relative;
+}
+
+#u77
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #E85059;
+	position: relative;
+}
+
+#u187
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FF8180;
+	position: relative;
+}
+
+#u200,#u206,#u211,#u1552,#u221,#u1150
+{
+	position: relative;
+}
+
+#u200_img,#u206_img,#u211_img,#u1552_img,#u221_img,#u1150_img
+{
+	vertical-align: top;
+}
+
